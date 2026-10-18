@@ -1,0 +1,32 @@
+# Build output
+dist/
+build.rsp
+tools/
+*.nupkg
+
+# Local decompilation and third-party reference material — never commit
+decompiled/
+reference/
+scripts/
+ui_crop.png
+dm_*.png
+screen.png
+
+# Runtime files
+config.json
+!config.example.json
+damagemeter.log
+*.log
+
+# IDE / OS
+.vs/
+.idea/
+bin/
+obj/
+*.user
+Thumbs.db
+.DS_Store
+
+# Release archives and local delivery folders
+*.zip
+交付_*/

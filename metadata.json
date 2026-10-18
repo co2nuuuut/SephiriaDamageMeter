@@ -1,0 +1,7 @@
+{
+  "modName": "SephiriaDamageMeter",
+  "modVersion": "1.6.1",
+  "modAuthor": "SephiriaDamageMeter contributors",
+  "dllFile": "SephiriaDamageMeter.dll",
+  "entryClass": "SephiriaDamageMeter.DamageMeterMod"
+}
